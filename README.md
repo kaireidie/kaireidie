@@ -10,6 +10,8 @@ I've always been interested in computers and software. Besides backend developme
 
 <img align="right" width="300" src="./image.jpg" alt="Kai" />
 
+<br clear="right"/>
+
 ## About Me
 
 - 💻 Backend development with Java and Spring Boot.
