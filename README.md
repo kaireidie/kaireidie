@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kai.
+<h1>Hey 👋, I'm Kai.</h1>
 
 Java Backend Developer
 
@@ -8,7 +8,7 @@ Outside of my main stack, I also use **Rust**, **C** and **C++**.
 
 I've always been interested in computers and software. Besides backend development, I enjoy exploring server architecture, legacy codebases, game servers such as Lineage II and technologies behind Unreal Engine 2.
 
-## About Me
+<h2>About Me</h2>
 
 <img align="right" width="300" src="./image.jpg" alt="Kai" />
 
@@ -22,32 +22,32 @@ I've always been interested in computers and software. Besides backend developme
 
 <br clear="right">
 
-## Languages
+<h2>Languages</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,rust,cpp,c" />
 </p>
 
-## Backend
+<h2>Backend</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-## Databases
+<h2>Databases</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://cdn.simpleicons.org/mariadb" height="48" alt="MariaDB" />
 </p>
 
-## DevOps
+<h2>DevOps</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gradle,git,linux" />
   <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="48" alt="FreeBSD" />
 </p>
 
-## Contact
+<h2>Contact</h2>
 
 - GitHub: https://github.com/kaireidie
