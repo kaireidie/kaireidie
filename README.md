@@ -10,7 +10,7 @@ Backend Developer focused on Java.
 - 🦀 In my free time I like experimenting with **Rust** and **C++**.
 - 📚 I enjoy learning how backend systems work, from APIs and databases to deployment and infrastructure.
 
-<img align="right" width="320" src=".images/image.jpg" />
+<img align="right" width="320" src="./image.jpg" />
 
 ### About Me
 
