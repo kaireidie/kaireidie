@@ -2,7 +2,7 @@
 
 Java Backend Developer
 
-I work with **Java**, **Kotlin**, **Spring Boot**, **PostgreSQL**, **Docker** and **Kubernetes**, building backend applications and REST APIs.
+I work with **Java**, **Kotlin**, **Spring**, **PostgreSQL**, **Docker** and **Kubernetes**, building backend applications and REST APIs.
 
 Outside of my main stack, I also use **Rust**, **C** and **C++**.
 
