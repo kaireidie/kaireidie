@@ -6,7 +6,7 @@ I work with **Java**, **Kotlin**, **Spring**, **PostgreSQL**, **Docker** and **K
 
 Outside of my main stack, I also use **Rust**, **C** and **C++**.
 
-I've always been interested in computers and software. Besides backend development, I enjoy exploring server architecture, legacy codebases, mmp-game servers such as World Of Warcraft, Lineage II, Final Fantasy XI etc. and technologies behind Unreal Engine 2-3.
+I've always been interested in computers and software. Besides backend development, I enjoy exploring server architecture, legacy codebases, mmo-game servers such as World Of Warcraft, Lineage II, Final Fantasy XI etc. and technologies behind Unreal Engine 2-3.
 
 <h2>About Me</h2>
 
