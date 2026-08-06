@@ -6,13 +6,13 @@ I work with **Java**, **Kotlin**, **Spring**, **PostgreSQL**, **Docker** and **K
 
 Outside of my main stack, I also use **Rust**, **C** and **C++**.
 
-I've always been interested in computers and software. Besides backend development, I enjoy exploring server architecture, legacy codebases, game servers such as Lineage II and technologies behind Unreal Engine 2.
+I've always been interested in computers and software. Besides backend development, I enjoy exploring server architecture, legacy codebases, mmp-game servers such as World Of Warcraft, Lineage II, Final Fantasy XI etc. and technologies behind Unreal Engine 2-3.
 
 <h2>About Me</h2>
 
 <img align="right" width="300" src="./image.jpg" alt="Kai" />
 
-- 💻 Backend development with Java and Spring Boot.
+- 💻 Backend development with Java/Kotlin and Spring Boot.
 - ⚙️ Building REST APIs and backend services.
 - 🗄️ Working with PostgreSQL, MariaDB and MySQL.
 - 🐳 Containerizing and deploying applications with Docker and Kubernetes.
